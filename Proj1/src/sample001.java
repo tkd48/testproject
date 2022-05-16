@@ -15,6 +15,7 @@ public class sample001 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("Hello,World2!!");
 		System.out.println("Hello,World3!!");
+		System.out.println("Hello,World4!!");
 	}
 
 }
